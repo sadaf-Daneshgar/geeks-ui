@@ -26,7 +26,7 @@
 
 # 📖 [Geeks UI] <a name="about-project"></a>
 
- 
+Geeks UI is a collection of beautiful, fully responsive UI components. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
