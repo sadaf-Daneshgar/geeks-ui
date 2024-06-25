@@ -57,7 +57,7 @@ Geeks UI is a collection of beautiful, fully responsive UI components.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://sadaf-portfolio.vercel.app/)
+- [Live Demo Link](https://geeks-ui-teal.vercel.app/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
